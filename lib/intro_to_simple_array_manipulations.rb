@@ -5,3 +5,6 @@ end
 def using_insert(array)
   array.uniq
 end
+
+def using_flatten(array)
+  
